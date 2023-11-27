@@ -1,0 +1,28 @@
+.header {
+    list-style: none; 
+    padding: 0; 
+    margin: 0; 
+    display: flex; 
+    background-color: rgb(188, 133, 188); /* Color morado de fondo */
+    max-width: 400px; /* Ancho máximo de la barra morada */
+    height: 50px; /* Altura de la barra morada */
+    align-items: center;
+    gap: 0px;
+}
+
+.header li {
+    margin: 0px;
+}
+
+.header button {
+    margin-right: 10px;
+    background-color: rgb(188, 133, 188); /* Color morado de fondo por defecto */
+    color: white; /* Color del texto */
+    border: none; /* Elimina el borde del botón */
+    padding: 10px 15px; /* Ajusta el espacio interno del botón */
+    cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+}
+
+.header button:hover {
+    background-color: blue; /* Cambia el color de fondo a azul al pasar el cursor */
+}
