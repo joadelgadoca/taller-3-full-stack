@@ -1,0 +1,29 @@
+p{
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: left;
+}
+.sp1{
+    color: green;
+    text-decoration: underline;
+}
+.sp2{
+    color: red;
+}
+.sp3{
+    text-decoration: underline;
+    border-top: 1px solid #000;
+}
+.sp4{
+    font-size: 40px;
+    font-weight: bold;
+}
+.sp5{
+    color: blue;
+    font-weight: bold;
+}
+.sp6{
+    color: red;
+    text-decoration: underline;
+    font-weight: bold;
+}
