@@ -1,0 +1,20 @@
+table {
+    border-collapse: collapse; /* Combina los bordes de las celdas */
+    width: 800px;
+    background-color: yellow;
+}
+.col1 {
+    border-right: 1px solid yellow;
+}
+td {
+    border: 1px solid black; /* Borde de 1 píxel sólido en todas las celdas */
+    padding: 1px; /* Espaciado interno de 10 píxeles en todas las celdas */
+}
+.fila1{
+    text-align: center;
+    color: red;
+}
+.C{
+    font-weight: bold;
+    font-size: 20px;
+}
